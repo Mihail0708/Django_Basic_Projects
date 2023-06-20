@@ -82,8 +82,8 @@ DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "music_app_db",
-        "USER": "Mihail0708",
-        "PASSWORD": "softuni",
+        "USER": "*******",
+        "PASSWORD": "*******",
         "HOST": "127.0.0.1",
         "PORT": "5432",
     }
